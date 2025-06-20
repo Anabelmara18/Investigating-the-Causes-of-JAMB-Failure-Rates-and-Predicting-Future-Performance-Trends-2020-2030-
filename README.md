@@ -36,6 +36,17 @@ Data was collected via a structured online survey distributed to individuals who
 
 ---
 
+##  Challenges and Solutions
+
+| **Challenge**                       | **Solution**                                                                                                                    |
+|------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| **Limited Dataset Size**           | Focused on data quality through careful cleaning and encoding. Acknowledged sample size as a limitation in the evaluation phase. |
+| **Imbalanced Support in Test Set** | Clearly explained evaluation metrics and suggested expanding the dataset for future iterations.                                |
+| **Potential Overfitting**          | Applied train-test split validation and chose a low-variance model. Recommends k-fold validation in future work.               |
+| **Feature Gaps in Survey**         | Proposed inclusion of more variables in future surveys (e.g., mental health, teacher access, language barriers).                |
+
+---
+
 ## Key Insights
 
 ### 1. Pass vs. Fail Rate Distribution
